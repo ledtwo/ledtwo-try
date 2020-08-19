@@ -5,7 +5,7 @@
 npm install -g datetime-format-wsy
 
 #github
-https://github.com/shiyuan598/FrontEnd/tree/master/npm/datetime-format
+https://github.com/ledtwo/ledtwo-try.git
 
 #usage
 let formatter = require('./index')
